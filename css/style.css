@@ -1,0 +1,101 @@
+body {
+    background-color: #f70037;
+}
+a.nav-link {
+    color:white;
+    font-family: monospace;
+}
+
+a.nav-link:hover {
+    color: white;
+    border-bottom: rgb(206, 0, 1) solid 2px;
+}
+
+a.navbar-brand {
+    font-family: monospace;
+    color: rgb(206, 0, 1);
+}
+div.container-fluid-xxl.p-5.text-white.text-center {
+    background-color: #211f24;
+    width: 100%;
+}
+
+h1 {
+    font-family: monospace;
+}
+p {
+    color: rgb(206, 0, 1);
+    font-family: cursive;
+}
+
+body {
+    background: #211f24;
+}
+ 
+div.container-fluid-xxl p-5{
+    background: #211f24;
+}
+
+.section-features {
+    padding-top: 110px;
+    padding-bottom: 120px;
+    background-color: #211f24;
+    color: #fff;
+  }
+
+  .section-features .header-section {
+    margin-bottom: 35px;
+  }
+
+  .section-features .header-section .title {
+    position: relative;
+    margin-bottom: 40px;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
+  .section-features .header-section .title:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 140px;
+    height: 1px;
+    background-color: #f70037;
+  }
+
+  .section-features .header-section .title:after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 45px;
+    height: 3px;
+    background-color: #f70037;
+  }
+
+  .section-features .header-section .title span {
+    color: #f70037;
+  }
+  .section-features .header-section .description {
+    color: #6f6f71;
+  }
+
+div.row.row-cols-1.row-cols-md-3.g-4 {
+    background: #211f24;
+}
+
+div.card-body {
+    background: #19191919;
+}
+
+div.card {
+    background: #19191919;
+}
+
+p.description {
+    color: white;
+}
